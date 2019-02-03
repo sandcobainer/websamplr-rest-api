@@ -1,0 +1,24 @@
+id,name,url,search_url,source_type,cc_free,direct_play
+1,Amazon Music,https://music.amazon.com/,https://music.amazon.com/search/,1,0,0
+2,Apple Music,https://www.apple.com/itunes/,https://playapplemusic.com/search?q=,1,0,0
+3,Youtube Music,https://music.youtube.com/,https://music.youtube.com/search?q=,1,0,1
+4,Spotify,https://open.spotify.com/,https://open.spotify.com/search/songs/,1,0,0
+5,Pandora,https://www.pandora.com/,https://www.pandora.com/search/,1,0,1
+6,Last.fm,https://www.last.fm/,https://www.last.fm/search?q=,1,0,1
+7,Napster,https://us.napster.com/,https://us.napster.com/search?query=,1,0,0
+8,Google Play Music,https://play.google.com/music/listen,,1,0,0
+9,Deezer,https://www.deezer.com/,https://www.deezer.com/search/,1,0,0
+10,Soundcloud,https://soundcloud.com/,https://soundcloud.com/search?q=,1,0,1
+11,Yotuube,https://www.youtube.com/,https://www.youtube.com/results?search_query=,1,0,1
+12,Slacker,https://www.slacker.com/,https://www.slacker.com/fullsearch,1,0,1
+13,Tidal,https://tidal.com/,https://listen.tidal.com/search?q=,1,0,0
+16,QoBuz,https://www.qobuz.com/,,1,0,0
+17,Mixcloud,https://www.mixcloud.com/,,1,0,1
+19,8tracks,https://8tracks.com/,https://8tracks.com/explore/,1,0,1
+22,Tuner.Guru,https://www.tuner.guru/,https://www.tuner.guru/search/,1,0,1
+23,hearthis.at,https://hearthis.at/,https://hearthis.at/search/?q=,1,0,1
+24,Yandex Music,https://music.yandex.com/,https://music.yandex.com/search?text=,1,0,0
+25,Anghami,https://www.anghami.com/,https://play.anghami.com/search/,1,0,0
+26,cmd.to,https://cmd.to/,,1,0,1
+27,Mixshake,https://mixshakemusic.com/,,1,0,1
+46,Bandcamp,https://bandcamp.com/,https://bandcamp.com/search?q=,1,0,1
