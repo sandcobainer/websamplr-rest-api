@@ -1,0 +1,95 @@
+id,name,url,search_url,source_type,cc_free,direct_play
+1,Amazon Music,https://music.amazon.com/,https://music.amazon.com/search/,1,0,0
+2,Apple Music,https://www.apple.com/itunes/,https://playapplemusic.com/search?q=,1,0,0
+3,Youtube Music,https://music.youtube.com/,https://music.youtube.com/search?q=,1,0,1
+4,Spotify,https://open.spotify.com/,https://open.spotify.com/search/songs/,1,0,0
+5,Pandora,https://www.pandora.com/,https://www.pandora.com/search/,1,0,1
+6,Last.fm,https://www.last.fm/,https://www.last.fm/search?q=,1,0,1
+7,Napster,https://us.napster.com/,https://us.napster.com/search?query=,1,0,0
+8,Google Play Music,https://play.google.com/music/listen,,1,0,0
+9,Deezer,https://www.deezer.com/,https://www.deezer.com/search/,1,0,0
+10,Soundcloud,https://soundcloud.com/,https://soundcloud.com/search?q=,1,0,1
+11,Yotuube,https://www.youtube.com/,https://www.youtube.com/results?search_query=,1,0,1
+12,Slacker,https://www.slacker.com/,https://www.slacker.com/fullsearch,1,0,1
+13,Tidal,https://tidal.com/,https://listen.tidal.com/search?q=,1,0,0
+14,DI.FM,https://www.di.fm/,https://www.di.fm/search?q=,3,0,0
+15,Earbits,https://www.earbits.com/,,3,0,0
+16,QoBuz,https://www.qobuz.com/,,1,0,0
+17,Mixcloud,https://www.mixcloud.com/,,1,0,1
+18,Mixcloud,https://www.mixcloud.com/,,3,0,1
+19,8tracks,https://8tracks.com/,https://8tracks.com/explore/,1,0,1
+20,Radio4000,https://radio4000.com/,https://radio4000.com/search?search=,3,0,1
+21,SomaFM,http://somafm.com/player/#/all-stations,,3,0,1
+22,Tuner.Guru,https://www.tuner.guru/,https://www.tuner.guru/search/,1,0,1
+23,hearthis.at,https://hearthis.at/,https://hearthis.at/search/?q=,1,0,1
+24,Yandex Music,https://music.yandex.com/,https://music.yandex.com/search?text=,1,0,0
+25,Anghami,https://www.anghami.com/,https://play.anghami.com/search/,1,0,0
+26,cmd.to,https://cmd.to/,,1,0,1
+27,Mixshake,https://mixshakemusic.com/,,1,0,1
+28,Jamendo Music,https://www.jamendo.com/radios,https://www.jamendo.com/search?q=,3,0,1
+29,Landr,https://samples.landr.com/,,2,1,1
+30,BBC Sound Effects,http://bbcsfx.acropolis.org.uk,http://bbcsfx.acropolis.org.uk/?q=,2,0,1
+31,Sample Focus,https://samplefocus.com/,https://samplefocus.com/samples?utf8=✓&search=,2,1,1
+32,Bedroom Producers Blog,https://bedroomproducersblog.com/tag/free-samples/,,2,1,1
+33,Sample Swap,https://sampleswap.org/,https://sampleswap.org/filebrowser-new.php?q=,2,0,1
+34,Freesound,https://freesound.org/,https://freesound.org/search/?q=,2,0,1
+35,Looperman,https://www.looperman.com/,https://www.looperman.com/loops?page=1&keys=df&order=date&dir=,2,1,1
+36,NASA Audio Collection,https://archive.org/details/nasaaudiocollection,,2,0,1
+37,Converse Rubber Tracks,https://www.conversesamplelibrary.com/,,2,1,1
+38,Sample Radar,https://www.musicradar.com/news/tech/free-music-samples-download-loops-hits-and-multis-627820,,2,1,0
+39,BBC 1Xtra Sample Bank,http://www.bbc.co.uk/1xtra/1xmusic/sample/,https://www.bbc.co.uk/search?q=,2,0,1
+40,Samplephonics,https://www.samplephonics.com/products/sample-packs,,2,0,1
+41,Noizz,https://app.noiiz.com/sounds/free_packs,https://app.noiiz.com/sounds/samples?utf8=✓&q=,2,0,0
+42,Audio Micro,https://www.audiomicro.com/,https://www.audiomicro.com/tracks/search?query=,2,0,1
+43,FreeSFX,https://www.freesfx.co.uk,,2,0,1
+44,Sound Bible,http://soundbible.com/,,2,1,1
+45,Sound Jay,https://www.soundjay.com/,,2,1,1
+46,Bandcamp,https://bandcamp.com/,https://bandcamp.com/search?q=,1,0,1
+47,Internet Radio,https://www.internet-radio.com/,https://www.internet-radio.com/search/?radio=,3,0,1
+48,KEXP,http://kexp.org/,http://kexp.org/ksearch/?q=,3,0,1
+49,KCRW,https://www.kcrw.com/,https://www.kcrw.com/@@search?q=,3,0,1
+50,XRAY.FM,https://xray.fm/,,3,0,1
+51,Dublab,http://dublab.com/,http://dublab.com/?s=,3,0,1
+52,KUTX,http://kutx.org/wp-content/media_player_2/,http://kutx.org/?s=,3,0,1
+53,WFMU,https://wfmu.org/,,3,0,1
+54,BBC RAdio 6,https://www.bbc.co.uk/6music,,3,0,1
+55,NPR Radio,https://www.npr.org/music/,https://www.npr.org/search?query=,3,0,1
+56,WWOZ,https://www.wwoz.org/listen/player/,,3,0,1
+57,WQXR,https://www.wqxr.org/,,3,0,1
+58,KUSF,http://www.kusf.org/,,3,0,1
+59,Berlin Community Radio,http://www.berlincommunityradio.com/,,3,0,1
+60,Tune In,https://tunein.com/,https://tunein.com/search/?query=,3,0,1
+61,Radio Free Brooklyn,https://v4.mystreamplayer.com/radiofreebrooklyn,,3,0,1
+62,NTS Radio,https://www.nts.live/,https://www.nts.live/find?q=,3,0,1
+63,Radio Musical De Cuba,http://www.cmbfradio.cu/,https://icecast.teveo.icrt.cu/Nbtz7HT3,3,0,1
+64,Cinemix,https://www.cinemix.us/,,3,0,1
+65,Radio Earth,http://radio.garden/live/,,6,0,1
+66,Vimeo,https://vimeo.com/,https://vimeo.com/search?q=,4,0,1
+67,Veoh,http://www.veoh.com,http://www.veoh.com/find/?query=,4,0,1
+68,Crackle,https://www.sonycrackle.com/,,4,0,1
+69,The Internet Archive,https://archive.org/,https://archive.org/search.php?query=d,4,0,1
+70,MySpace,https://myspace.com/,,5,0,1
+71,The Open Video Project,https://open-video.org/,,4,0,1
+72,9GAG,https://9gag.com/,https://9gag.com/search?query=df,4,0,1
+73,TED,https://www.ted.com/,https://www.ted.com/search?q=,4,0,1
+74,Netflix,https://www.netflix.com/,,4,0,0
+75,Amazon Video,https://www.amazon.com/Prime-Video/b?ie=UTF8&node=2676882011,,4,0,0
+76,Hulu,https://www.hulu.com/,,4,0,0
+77,HBO Now,https://play.hbonow.com/,,4,0,0
+78,Sling TV,https://www.sling.com/,,4,0,0
+79,Youtube TV,https://tv.youtube.com/,,4,0,0
+80,Tubi TV,https://tubitv.com/,https://tubitv.com/search/,4,0,1
+81,Mubi,https://mubi.com/,,4,0,0
+82,Fandor,https://www.fandor.com/,,4,0,0
+83,Shudder,https://www.shudder.com/,,4,0,0
+84,Spuul,https://spuul.com/,,4,0,0
+85,Pluto TV,https://pluto.tv/,,4,0,0
+86,Facebook,https://www.facebook.com/,,5,0,0
+87,Twitter,https://twitter.com/,,5,0,0
+88,LinkedIn,https://www.linkedin.com/,,5,0,0
+89,Google+,https://plus.google.com/,https://plus.google.com/s/,5,0,1
+90,Youtube,https://www.youtube.com/,https://www.youtube.com/results?search_query=,5,0,1
+91,Instagram,https://www.instagram.com/,,5,0,0
+92,Reddit,https://www.reddit.com/,https://www.reddit.com/search?q=,5,0,1
+93,Periscope,https://www.periscope.tv/,https://www.periscope.tv/search?q=,5,0,1
+94,Coub,https://coub.com/,https://coub.com/search?q=,5,0,1
