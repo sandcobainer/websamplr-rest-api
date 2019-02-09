@@ -9,7 +9,7 @@ id,name,url,search_url,source_type,cc_free,direct_play
 8,Google Play Music,https://play.google.com/music/listen,,1,0,0
 9,Deezer,https://www.deezer.com/,https://www.deezer.com/search/,1,0,0
 10,Soundcloud,https://soundcloud.com/,https://soundcloud.com/search?q=,1,0,1
-11,Yotuube,https://www.youtube.com/,https://www.youtube.com/results?search_query=,1,0,1
+11,Youtube,https://www.youtube.com/,https://www.youtube.com/results?search_query=,1,0,1
 12,Slacker,https://www.slacker.com/,https://www.slacker.com/fullsearch,1,0,1
 13,Tidal,https://tidal.com/,https://listen.tidal.com/search?q=,1,0,0
 14,DI.FM,https://www.di.fm/,https://www.di.fm/search?q=,3,0,0
